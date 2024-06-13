@@ -1,1 +1,1 @@
-# app-pdv
+# Simple PDV APP with Laravel
